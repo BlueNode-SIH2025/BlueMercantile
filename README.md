@@ -1,8 +1,6 @@
 
-  # User Authentication System
 
-  This is a code bundle for User Authentication System. The original project is available at https://www.figma.com/design/azlJ8INrrzrzTXon41wGIn/User-Authentication-System.
-
+This is the repo for BlueNode "BlueMercantile"
   ## Running the code
 
   Run `npm i` to install the dependencies.
