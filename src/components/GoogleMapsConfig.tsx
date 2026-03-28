@@ -15,7 +15,7 @@ interface GoogleMapsConfigProps {
 
 const GoogleMapsConfig: React.FC<GoogleMapsConfigProps> = ({ onApiKeySet, currentApiKey }) => {
   // Set the API key automatically - updated with latest working API key
-  const configuredApiKey = 'AIzaSyD4FfWwIbAIhzEVK5rjUxDZOQ9AAN3k6aU';
+  const configuredApiKey = 'API_KEY';
   const [apiKey, setApiKey] = useState(currentApiKey || configuredApiKey);
   const [isValid, setIsValid] = useState(false); // Will be validated automatically
   const [isValidating, setIsValidating] = useState(false);
