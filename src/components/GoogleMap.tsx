@@ -28,7 +28,7 @@ interface GoogleMapProps {
 }
 
 // Google Maps API Key - Updated with latest working API key
-const GOOGLE_MAPS_API_KEY = 'AIzaSyD4FfWwIbAIhzEVK5rjUxDZOQ9AAN3k6aU';
+const GOOGLE_MAPS_API_KEY = 'PLACE_API_KEY_HERE';
 
 // Check if we should skip Google Maps loading
 // This can be controlled via localStorage or environment variables
